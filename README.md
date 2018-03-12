@@ -1,6 +1,8 @@
 
 # Mexican Rice Bowl
 
+Florent Aden-Antoniow
+
 ![myrecipe](http://www.foodista.com/sites/default/files/styles/recype/public/rice_bowl_1380x924-686x1024.jpg)
 
 ## Ingredients
